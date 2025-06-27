@@ -1,6 +1,3 @@
-# Gesti-n-de-datos.
-Gestión de Datos con Objetos, Sets y Maps.
-
 # Gestión de Productos con Objetos, Sets y Maps
 
 Este proyecto está diseñado para gestionar productos utilizando **objetos**, **Sets** y **Maps** en JavaScript. El objetivo es evitar duplicados, asociar categorías a los productos y recorrer los datos usando distintos tipos de bucles.
